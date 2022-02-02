@@ -162,7 +162,7 @@ img {
 .sitenav-link:hover {
   color: var(--title-color);
   border-bottom: 4px solid var(--outline-color);
-  padding-bottom: 18px;
+  padding-bottom: 26px;
 }
 
 /* HERO */
@@ -415,11 +415,4 @@ img {
   letter-spacing: -0.2px;
   color: var(--white-color);
   opacity: 0.5;
-}
-
-/* RESPONSIVE */
-@media only screen and (max-width: 1140px) {
-  .container {
-    width: 1020px;
-  }
 }
